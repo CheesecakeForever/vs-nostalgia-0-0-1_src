@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Crazy Frog",
+			"crazy-frog",
+			[
+				186,
+				213,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "road",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Ding Ding",
+	"weekName": "Crazy Frog",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

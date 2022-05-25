@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-28
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IdleS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-26
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CrazyFrog",
+	"position": [
+		-70,
+		-50
+	],
+	"healthicon": "crazy-frog",
+	"flip_x": false,
+	"healthbar_colors": [
+		117,
+		134,
+		182
+	],
+	"camera_position": [
+		-110,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}
